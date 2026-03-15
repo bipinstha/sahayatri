@@ -49,7 +49,18 @@ const translations = {
         'opt_infra': 'Infrastructure',
         'btn_submit': 'Get Estimate',
         'copy_text': '© 2026 Sahayatri Nirman Sewa Pvt. Ltd. All rights reserved.',
-        'alert_msg': 'Request sent! Our team will contact you shortly.'
+        'alert_msg': 'Request sent! Our team will contact you shortly.',
+        'about_img1': 'Years',
+        'about_img2': 'Of Excellence',
+        'about_sur': 'Our Identity',
+        'about_title': 'Dedicated to Precision and Professional Relations',
+        'aboutP1': 'Based in Kathmandu, Sahayatri Nirman Sewa Pvt. Ltd. is a premier construction and supply firm. With years of experience inside and out of the Kathmandu Valley, we specialize in precision-based design and construction that transforms your vision into a reality.',
+        'aboutV1T': 'Our Vision',
+        'aboutV1D': 'To be the leading construction firm in Nepal, renowned for our commitment to quality, innovation, and sustainable building practices.',
+        'aboutM1T': 'Our Mission',
+        'aboutM1D': 'To deliver exceptional construction services that exceed client expectations while adhering to the highest standards of safety and environmental responsibility.',
+        'aboutV2T': 'Our Values',
+        'aboutV2D': 'Integrity, Excellence, Innovation, Sustainability, and Client-Centricity are the core values that drive our work and relationships.'
     },
     'ne': {
         'nav_heading': 'सहयात्री निर्माण सेवा प्रा. लि.',
@@ -99,7 +110,18 @@ const translations = {
         'opt_infra': 'पूर्वाधार',
         'btn_submit': 'अनुमान प्राप्त गर्नुहोस्',
         'copy_text': '© २०२६ सहयात्री निर्माण सेवा प्रा. लि. सबै अधिकार सुरक्षित।',
-        'alert_msg': 'अनुरोध पठाइयो! हाम्रो टोलीले तपाईंलाई छिट्टै सम्पर्क गर्नेछ।'
+        'alert_msg': 'अनुरोध पठाइयो! हाम्रो टोलीले तपाईंलाई छिट्टै सम्पर्क गर्नेछ।',
+        'about_img1': 'वर्षौ',
+        'about_img2': 'को उत्कृष्टता',
+        'about_sur': 'हाम्रो पहिचान',
+        'about_title': 'सटीकता र व्यावसायिक सम्बन्धमा समर्पित',
+        'aboutP1': 'काठमाडौंमा आधारित, सहयात्री निर्माण सेवा प्रा. लि. एक प्रमुख निर्माण र आपूर्ति फर्म हो। काठमाडौं उपत्यकाभित्र र बाहिरको वर्षोंको अनुभवका साथ, हामी तपाईंको दृष्टिकोणलाई वास्तविकतामा परिणत गर्ने सटीक-आधारित डिजाइन र निर्माणमा विशेषज्ञता प्राप्त गर्दछौं।',
+        'aboutV1T': 'हाम्रो दृष्टि',
+        'aboutV1D': 'नेपालमा अग्रणी निर्माण फर्म बन्न, गुणस्तर, नवाचार, र दिगो भवन अभ्यासमा हाम्रो प्रतिबद्धताका लागि प्रसिद्ध।',
+        'aboutM1T': 'हाम्रो मिशन',
+        'aboutM1D': 'उच्चतम सुरक्षा र वातावरणीय जिम्मेवारीका मानकहरू पालना गर्दै ग्राहक अपेक्षाहरूलाई पार गर्ने असाधारण निर्माण सेवाहरू प्रदान गर्नुहोस्।',
+        'aboutV2T': 'हाम्रो मूल्यहरू',
+        'aboutV2D': 'ईमानदारी, उत्कृष्टता, नवाचार, स्थिरता, र ग्राहक-केंद्रितता ती मूल मूल्यहरू हुन् जसले हाम्रो काम र सम्बन्धहरूलाई चलाउँछन्।'
     }
 };
 
