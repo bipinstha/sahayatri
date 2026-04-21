@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name_key": "proj_1_name",
+    "location_key": "loc_bhaktapur",
+    "status_key": "stat_ongoing",
+    "desc_key": "Structural Renovation\nComplete structural overhaul and interior renovation of a historic building, balancing traditional aesthetics with modern safety standards.",
+    "category": "comm",
+    "image": "img/project1.jpg",
+    "specs": {
+      "area": "15,000 sq. ft.",
+      "duration": "18 Months",
+      "typeKey": "opt_comm"
+    },
+    "updated_at": "2026-04-20T22:28:05.305Z"
+  },
+  {
+    "id": 2,
+    "name_key": "proj_2_name",
+    "location_key": "loc_lalitpur",
+    "status_key": "stat_completed",
+    "desc_key": "proj_2_desc",
+    "category": "res",
+    "image": "img/project2.jpg",
+    "specs": {
+      "area": "3,500 sq. ft.",
+      "duration": "10 Months",
+      "typeKey": "opt_res"
+    }
+  },
+  {
+    "id": 3,
+    "name_key": "proj_3_name",
+    "location_key": "loc_ktm15",
+    "status_key": "stat_completed",
+    "desc_key": "proj_3_desc",
+    "category": "res",
+    "image": "img/project3.jpg",
+    "specs": {
+      "area": "5,000 sq. ft.",
+      "duration": "12 Months",
+      "typeKey": "opt_res"
+    }
+  }
+]

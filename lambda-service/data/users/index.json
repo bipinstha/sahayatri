@@ -1,0 +1,40 @@
+{
+  "user_1776379947853": {
+    "id": "user_1776379947853",
+    "email": "admin@test.com",
+    "name": "Admin User",
+    "password_hash": "$2a$10$uQMNH3lz2OpNA4nPfRlCu.virt36I8N/KLWD028Zr835BhE3Jmvxu",
+    "role": "admin",
+    "status": "active",
+    "created_at": "2026-04-16T22:52:27.853Z",
+    "updated_at": "2026-04-18T14:14:00.803Z"
+  },
+  "user_1776517500053": {
+    "id": "user_1776517500053",
+    "email": "aakee.stha@gmail.com",
+    "name": "Bipin Shrestha",
+    "password_hash": "$2a$10$ALDGe4Ip6vViRLyCciKYDu76xCu2aO2B8KsvXm4VGWnQ9KSs5BrNS",
+    "role": "admin",
+    "status": "active",
+    "created_at": "2026-04-18T13:05:00.053Z",
+    "updated_at": "2026-04-18T14:07:16.790Z"
+  },
+  "user_1776523390496": {
+    "id": "user_1776523390496",
+    "email": "shresthakrishnaa@gmail.com",
+    "name": "Krishna Shrestha",
+    "password_hash": "$2a$10$c35G1bkH04g4b7P9N9EYbuH8.J4UFLrP4VlRSoBubIonyIVrETq6S",
+    "role": "manager",
+    "status": "active",
+    "created_at": "2026-04-18T14:43:10.496Z"
+  },
+  "user_1776523873602": {
+    "id": "user_1776523873602",
+    "email": "bipinshrestha718@gmail.com",
+    "name": "Bipin Shrestha",
+    "password_hash": "$2a$10$/.NxKWCQVG9hfjx7VC9LPOm7dDA7CskTW7Ad/FoRlAd4dUt.LLy.q",
+    "role": "viewer",
+    "status": "active",
+    "created_at": "2026-04-18T14:51:13.602Z"
+  }
+}

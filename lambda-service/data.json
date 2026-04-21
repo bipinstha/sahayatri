@@ -1,0 +1,89 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title_key": "svc_1_title",
+      "desc_key": "svc_1_desc",
+      "image": "img/residential.jpg"
+    },
+    {
+      "id": 2,
+      "title_key": "svc_2_title",
+      "desc_key": "svc_2_desc",
+      "image": "img/infrastructure.jpg"
+    },
+    {
+      "id": 3,
+      "title_key": "svc_3_title",
+      "desc_key": "svc_3_desc",
+      "image": "img/engineering.jpg"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name_key": "proj_1_name",
+      "location_key": "loc_bhaktapur",
+      "status_key": "stat_ongoing",
+      "desc_key": "proj_1_desc",
+      "category": "infra",
+      "image": "img/project1.jpg",
+      "specs": {
+        "area": "15,000 sq. ft.",
+        "duration": "18 Months",
+        "typeKey": "opt_infra"
+      }
+    },
+    {
+      "id": 2,
+      "name_key": "proj_2_name",
+      "location_key": "loc_lalitpur",
+      "status_key": "stat_completed",
+      "desc_key": "proj_2_desc",
+      "category": "res",
+      "image": "img/project2.jpg",
+      "specs": {
+        "area": "3,500 sq. ft.",
+        "duration": "10 Months",
+        "typeKey": "opt_res"
+      }
+    },
+    {
+      "id": 3,
+      "name_key": "proj_3_name",
+      "location_key": "loc_ktm15",
+      "status_key": "stat_completed",
+      "desc_key": "proj_3_desc",
+      "category": "res",
+      "image": "img/project3.jpg",
+      "specs": {
+        "area": "5,000 sq. ft.",
+        "duration": "12 Months",
+        "typeKey": "opt_res"
+      }
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Arjun Thapa",
+      "role_key": "test_1_role",
+      "text_key": "test_1_text",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Sita Gurung",
+      "role_key": "test_2_role",
+      "text_key": "test_2_text",
+      "rating": 5
+    }
+  ],
+  "stats": {
+    "years_experience": 10,
+    "projects_completed": 50,
+    "happy_clients": 200,
+    "million_sqft_built": 2
+  },
+  "quotes": []
+}

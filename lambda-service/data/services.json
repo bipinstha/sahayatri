@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title_key": "svc_1_title",
+    "desc_key": "svc_1_desc",
+    "image": "img/residential.jpg"
+  },
+  {
+    "id": 2,
+    "title_key": "svc_2_title",
+    "desc_key": "svc_2_desc",
+    "image": "img/infrastructure.jpg"
+  },
+  {
+    "id": 3,
+    "title_key": "svc_3_title",
+    "desc_key": "svc_3_desc",
+    "image": "img/engineering.jpg"
+  }
+]
