@@ -27,3 +27,4 @@ Enable Admin users to upload project images directly from the dashboard. Images 
 ## Risks
 - **Performance:** Unzipping in JS adds CPU overhead.
 - **Complexity:** Standard `<img>` tags won't work with `.zip` URLs directly; a wrapper function is required.
+edit on  site add icone of whatsapp and number
